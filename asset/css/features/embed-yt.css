@@ -1,0 +1,13 @@
+@media (max-width: 675px) {
+  #headlineatas {
+      left: 0%;
+      right: 0%;
+      top: 20%;
+  }
+  #merch {
+      width: 100%;
+  }
+  #clos {
+      padding-right: 45%;
+  }
+}

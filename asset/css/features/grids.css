@@ -1,0 +1,19 @@
+  .grid-container {
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 10px;
+    background-color:rgba(12, 11, 9, 0.6);
+    padding: 10px;
+  }
+  
+  .grid-container > div {
+    background-color: rgba(12, 11, 9, 0.6);
+    text-align: center;
+    padding: 20px 0;
+    font-size: 30px;
+  }
+  
+  .primary {
+    grid-row-start: 1;
+    grid-row-end: 3;
+  }
