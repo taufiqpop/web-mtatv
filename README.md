@@ -1,4 +1,3 @@
-# Web-MTATV
+# Web MTATV
 Official Website - Promosi Kajian Ahad Pagi Untuk MTATV (PT. ARINA AL-HAQ)
-
-Direktur MTATV : Rudi Herfianto
+- Direktur MTATV : Rudi Herfianto
